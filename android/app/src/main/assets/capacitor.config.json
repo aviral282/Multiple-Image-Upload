@@ -1,0 +1,8 @@
+{
+  "appId": "com.aviral.imgapp",
+  "appName": "multiimg",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/imgapp",
+  "cordova": {}
+}
